@@ -22,7 +22,7 @@ function App() {
       {/* 3. Dynamically Render for a second student (Priya) */}
       <section>
         <h2>User 2</h2>
-        <Welcome name="Priya" />
+        <Welcome name="Karthik" />
       </section>
 
       <hr />
@@ -30,7 +30,12 @@ function App() {
       {/* 4. Dynamically Render for a third student (Alex) */}
       <section>
         <h2>User 3</h2>
-        <Welcome name="Alex" />
+        <Welcome name="Ravi" />
+      </section>
+       {/* 5. Dynamically Render for a third student (Alex) */}
+      <section>
+        <h2>User 4</h2>
+        <Welcome name="Dileep" />
       </section>
       
     </div>
